@@ -6,7 +6,7 @@ import { join } from "node:path";
 
 const CONFIG_DIR = join(homedir(), ".pwahatch");
 const CONFIG_FILE = join(CONFIG_DIR, "config.json");
-const DEFAULT_URL = "http://localhost:3000";
+const DEFAULT_URL = "https://pwahatch.kreativekorna.com";
 
 const CATEGORIES = [
   "business",
