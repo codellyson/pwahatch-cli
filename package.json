@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Submit PWAs to Hatch from your terminal",
   "type": "module",
+  "repository": {
+    "url": "https://github.com/codellyson/pwahatch-cli.git"
+  },
   "bin": {
     "pwahatch": "./bin/pwahatch.mjs"
   },
