@@ -1,0 +1,16 @@
+{
+  "name": "pwahatch",
+  "version": "1.0.0",
+  "description": "Submit PWAs to Hatch from your terminal",
+  "type": "module",
+  "bin": {
+    "pwahatch": "./bin/pwahatch.mjs"
+  },
+  "engines": {
+    "node": ">=18.15.0"
+  },
+  "files": [
+    "bin/"
+  ],
+  "license": "MIT"
+}
