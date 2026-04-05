@@ -1,6 +1,6 @@
 {
   "name": "pwahatch-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Submit PWAs to Hatch from your terminal",
   "type": "module",
   "repository": {
